@@ -3,6 +3,7 @@ import logging
 
 def main():
     logging.debug("test")
+    print('finish')
     pass
 
 
